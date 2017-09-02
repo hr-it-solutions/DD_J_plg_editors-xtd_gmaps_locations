@@ -1,5 +1,5 @@
 # DD_J_plg_editor_gmaps_locations_button
- A Joomla! editor button plugin to associate a DD GMaps Location to an Article. Addon Plugin for DD GMaps Locations https://github.com/hr-it-solutions/DD_J_com_gmaps_locations.
+A Joomla! editor button plugin to associate a DD GMaps Location to an Article. Addon Plugin for DD GMaps Locations https://github.com/hr-it-solutions/DD_J_com_gmaps_locations.
 
 [![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.png?v=102)](https://opensource.org/licenses/GPL-2.0/)
 

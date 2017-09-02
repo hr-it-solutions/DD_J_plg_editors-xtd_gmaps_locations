@@ -1,6 +1,6 @@
 <?php
 /**
- * @package    DD_GMaps_Locations_Button
+ * @package    DD_GMaps_Locations
  *
  * @author     HR IT-Solutions Florian Häusler <info@hr-it-solutions.com>
  * @copyright  Copyright (C) 2017 - 2017 Didldu e.K. | HR IT-Solutions
@@ -16,7 +16,7 @@ use Joomla\Registry\Registry;
  *
  * @since  Version 1.0.0.0
  */
-class PlgButtonDD_GMaps_Locations_Button extends JPlugin
+class PlgButtonDD_GMaps_Locations extends JPlugin
 {
 	protected $app;
 
